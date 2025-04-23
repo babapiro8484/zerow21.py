@@ -356,7 +356,6 @@ banner = r"""
   ██╔══╝  ██╔══╝  ██╔═══╝ ██║   ██║██║███╗██║
   ███████╗███████╗██║     ╚██████╔╝╚███╔███╔╝
   ╚══════╝╚══════╝╚═╝      ╚═════╝  ╚══╝╚═
-
 pyAnime.Fade(pyCenter.Center(banner), pyColors.purple_to_red, pyColorate.Vertical, enter=True)
 
 pySystem.Clear()
