@@ -355,16 +355,7 @@ banner = r"""
   █████╗  █████╗  ██████╔╝██║   ██║██║ █╗ ██║
   ██╔══╝  ██╔══╝  ██╔═══╝ ██║   ██║██║███╗██║
   ███████╗███████╗██║     ╚██████╔╝╚███╔███╔╝
-  ╚══════╝╚══════╝╚═╝      ╚═════╝  ╚══╝╚══╝ 
-"""[1:]
-    
-                          
-           Car Parking Multiplayer Instant Script
-                    LESS THEN 1 MINUTE
-
-                        PRESS ENTER          
-
-
+  ╚══════╝╚══════╝╚═╝      ╚═════╝  ╚══╝╚═
 
 pyAnime.Fade(pyCenter.Center(banner), pyColors.purple_to_red, pyColorate.Vertical, enter=True)
 
