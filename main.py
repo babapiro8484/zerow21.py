@@ -1,6 +1,6 @@
 import requests
 
-API_URL = "https://7eab950d-c959-4bf9-afdf-f0bf12b31b4c-00-2lxn7evq463k.sisko.replit.dev"
+API_URL = "https://41fe423b-06a1-4435-9ead-ec01085d7126-00-3ogsrh5i5qbha.sisko.replit.dev/"
 
 def login_check(username, password):
     try:
