@@ -363,7 +363,7 @@ banner = r"""
                     LESS THEN 1 MINUTE
 
                         PRESS ENTER          
-"""[1:]
+
 
 
 pyAnime.Fade(pyCenter.Center(banner), pyColors.purple_to_red, pyColorate.Vertical, enter=True)
